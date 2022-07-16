@@ -1,0 +1,1 @@
+.socials {    display: flex;    justify-content: center;    align-items: center;    width: 317px;    height: 64px;    background: #161619;    border-radius: 0px 0px 10px 10px;}.socials > span {    margin-left: 24px;    padding-right: 20px;}

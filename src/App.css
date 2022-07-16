@@ -1,0 +1,13 @@
+body{
+  background-color: #1a1a1a;
+}
+
+.App {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  width: 550px;
+  height: 868px;
+  padding-top: 44px;
+  background: #23252C;
+}
